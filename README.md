@@ -1,51 +1,43 @@
-# 👟 Nike Landing Page Clone
+# 👟 Nike Landing Page Clone – ReactJS + TailwindCSS
 
-This project is a **responsive clone of the Nike landing page**, built using only **HTML** and **CSS**. It aims to replicate the design, layout, and interactions of a modern e-commerce product landing page inspired by Nike's official website.
+A responsive Nike landing page clone built using **ReactJS** and **Tailwind CSS**. This project replicates a modern Nike-style layout and demonstrates component-based architecture, responsive design, and utility-first styling.
 
 ---
 
 ## 🌐 Live Demo
 
-> 🔗 [View Live Site](https://your-netlify-site-name.netlify.app)  
-> *(Replace with your Netlify deployment URL after publishing)*
+> 🔗 [View Site on Netlify](https://your-netlify-site.netlify.app)  
+> *(Replace with your actual Netlify URL after deployment)*
 
 ---
 
-## 🖥️ Preview
+## 🧰 Tech Stack
 
-> *(Add a screenshot of the page UI after deployment)*  
-> Example:  
-> ![Nike Page Clone Preview](screenshots/nike-clone-preview.png)
-
----
-
-## 🎯 Features
-
-- Fully responsive layout
-- Smooth navigation bar
-- Hero section with promotional text and CTA button
-- Product highlights section
-- Clean and modern design
-- Optimized for desktop and mobile views
+- ⚛️ **ReactJS**
+- 🎨 **Tailwind CSS**
+- 📦 **Create React App**
+- 🖼️ **FontAwesome** (optional icon support)
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- ✅ HTML5
-- ✅ CSS3 (Flexbox, Grid, Media Queries)
-- ❌ No JavaScript
-- ❌ No frameworks or libraries
-
-> This project is built from scratch using pure HTML and CSS to practice layout and design replication skills.
+- Responsive layout for desktop and mobile
+- Navigation bar with branding and menu
+- Hero section with bold heading, description, and image
+- "Shop Now" and "Category" buttons
+- Logos of Flipkart and Amazon for store links
+- Login/Logout toggle button using React `useState`
+- Clean, modern UI using Tailwind utility classes
 
 ---
 
 ## 🚀 Getting Started
 
-### Run Locally
+### Clone and Run Locally
 
 ```bash
 git clone https://github.com/SoumaySoni/CloneNikePage.git
 cd CloneNikePage
-open index.html  # or double-click to open in browser
+npm install
+npm start
